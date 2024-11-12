@@ -1,0 +1,28 @@
+C:\FRANCISCO\GOOGLE DRIVE\WpfCrono\bin\Debug\WpfCrono.exe.config
+C:\FRANCISCO\GOOGLE DRIVE\WpfCrono\bin\Debug\WpfCrono.exe
+C:\FRANCISCO\GOOGLE DRIVE\WpfCrono\bin\Debug\WpfCrono.pdb
+C:\FRANCISCO\GOOGLE DRIVE\WpfCrono\obj\Debug\WpfCrono.csprojAssemblyReference.cache
+C:\FRANCISCO\GOOGLE DRIVE\WpfCrono\obj\Debug\MainWindow.g.cs
+C:\FRANCISCO\GOOGLE DRIVE\WpfCrono\obj\Debug\App.g.cs
+C:\FRANCISCO\GOOGLE DRIVE\WpfCrono\obj\Debug\WpfCrono_MarkupCompile.cache
+C:\FRANCISCO\GOOGLE DRIVE\WpfCrono\obj\Debug\WpfCrono_MarkupCompile.lref
+C:\FRANCISCO\GOOGLE DRIVE\WpfCrono\obj\Debug\MainWindow.baml
+C:\FRANCISCO\GOOGLE DRIVE\WpfCrono\obj\Debug\WpfCrono.g.resources
+C:\FRANCISCO\GOOGLE DRIVE\WpfCrono\obj\Debug\WpfCrono.Properties.Resources.resources
+C:\FRANCISCO\GOOGLE DRIVE\WpfCrono\obj\Debug\WpfCrono.csproj.GenerateResource.cache
+C:\FRANCISCO\GOOGLE DRIVE\WpfCrono\obj\Debug\WpfCrono.exe
+C:\FRANCISCO\GOOGLE DRIVE\WpfCrono\obj\Debug\WpfCrono.pdb
+C:\FRANCISCO\LABORAL\PROCESOS\IN2\ANCERT\WpfCrono\bin\Debug\WpfCrono.exe.config
+C:\FRANCISCO\LABORAL\PROCESOS\IN2\ANCERT\WpfCrono\bin\Debug\WpfCrono.exe
+C:\FRANCISCO\LABORAL\PROCESOS\IN2\ANCERT\WpfCrono\bin\Debug\WpfCrono.pdb
+C:\FRANCISCO\LABORAL\PROCESOS\IN2\ANCERT\WpfCrono\obj\Debug\WpfCrono.csprojAssemblyReference.cache
+C:\FRANCISCO\LABORAL\PROCESOS\IN2\ANCERT\WpfCrono\obj\Debug\MainWindow.g.cs
+C:\FRANCISCO\LABORAL\PROCESOS\IN2\ANCERT\WpfCrono\obj\Debug\App.g.cs
+C:\FRANCISCO\LABORAL\PROCESOS\IN2\ANCERT\WpfCrono\obj\Debug\WpfCrono_MarkupCompile.cache
+C:\FRANCISCO\LABORAL\PROCESOS\IN2\ANCERT\WpfCrono\obj\Debug\WpfCrono_MarkupCompile.lref
+C:\FRANCISCO\LABORAL\PROCESOS\IN2\ANCERT\WpfCrono\obj\Debug\MainWindow.baml
+C:\FRANCISCO\LABORAL\PROCESOS\IN2\ANCERT\WpfCrono\obj\Debug\WpfCrono.g.resources
+C:\FRANCISCO\LABORAL\PROCESOS\IN2\ANCERT\WpfCrono\obj\Debug\WpfCrono.Properties.Resources.resources
+C:\FRANCISCO\LABORAL\PROCESOS\IN2\ANCERT\WpfCrono\obj\Debug\WpfCrono.csproj.GenerateResource.cache
+C:\FRANCISCO\LABORAL\PROCESOS\IN2\ANCERT\WpfCrono\obj\Debug\WpfCrono.exe
+C:\FRANCISCO\LABORAL\PROCESOS\IN2\ANCERT\WpfCrono\obj\Debug\WpfCrono.pdb
